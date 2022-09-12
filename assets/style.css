@@ -16,7 +16,7 @@ body{
     padding: 5px;
     width: 80vw;
     height: 10vh;
-    background-color: #c7dddf;
+    background-color: #f4d8d8;
     font-size: x-large;
     text-align: center;
     
@@ -49,7 +49,7 @@ body{
     border-radius: 25%;
    }
    .option:hover{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(155, 158, 231);
    }
    .navigation{
     width: 80vw;
@@ -71,8 +71,17 @@ body{
     
     background-color: #50DBB4;
    }
+
+   .evaluate:hover{
+    background-color: aquamarine;
+   }
+
    .next{
     color: white;
     background-color: #BF3325;
+   }
+
+   .next:hover{
+    background-color: #e77c72;
    }
    
