@@ -6,7 +6,7 @@ const Questions = [{
      { text: "6", isCorrect: true },
      { text: "10", isCorrect: false }
     ]
-  
+
    },
    {
     id: 1,
